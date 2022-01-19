@@ -1,8 +1,6 @@
-#data type (int a=10) (float b=7.00) (str c="hello"/c="100")
-
+#variable value & calculation
 a=10
-b=7.00
-c="hello"
-
-#print(type(a)) / print(type(b)) / 
-print(type(c))
+b=20
+c=30
+# print(a+b) /print(a+c) / print(b*c) /etc
+print(b/c)
